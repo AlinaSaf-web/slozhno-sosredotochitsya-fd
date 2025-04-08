@@ -17,6 +17,7 @@
   --article-bg-color: #ff8dcb;
   --link-shadow-color: #ff8dcb;
   --bg-image: url("../images/cover-image-light.png");
+  --visible: hidden;
 }
 
 @media (prefers-color-scheme: light){
@@ -31,5 +32,6 @@
     --article-bg-color: #ff8dcb;
     --link-shadow-color: #ff8dcb;
     --bg-image: url("../images/cover-image-light.png");
+    --visible: hidden;
 }
 }

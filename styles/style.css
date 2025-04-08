@@ -5,6 +5,7 @@
   font-size: var(--main-font-size);
   color: var(--main-text-color);
   line-height: var(--main-line-height);
+  color: var(--main-font-color);
 
   background-image: var(--bg-image);
   background-repeat: no-repeat;
@@ -170,10 +171,11 @@
   font-size: var(--main-font-size);
   font-weight: var(--header-weight);
   line-height: var(--main-line-height);
+  
 }
 
 .how .article .article__header {
-  font-weight: var(--text-weight);
+  font-weight: var(--header-weight-text);
 }
 
 .article__text {

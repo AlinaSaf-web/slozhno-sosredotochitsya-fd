@@ -2,10 +2,11 @@
   --main-font: 'IBM Plex Mono', monospace;
   --main-font-size: 18px;
   --main-line-height: 130%;
-  --header-articles-gap: 20px;
+  --header-articles-gap: 10px;
   --articles-gap: 20px;
   --shadow-color: #FF0070;
-  --header-weight: 400;
+  --header-weight: 700;
+  --header-weight-text: 400;
   --main-padding: 10px;  
   --main-content-vertical-padding: 40px;  
   --sections-gap: 50px;  
