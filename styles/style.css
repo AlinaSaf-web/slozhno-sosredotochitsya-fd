@@ -215,6 +215,10 @@
   object-position: center;
 }
 
+.images {
+  gap: 10px;
+}
+
 .footer_decorated {
   display: flex;
   justify-content: center;
@@ -242,7 +246,7 @@
     width: calc(100% / 3 - var(--articles-gap));
   }
 
-  .images article {
+  .images {
     gap: 20px;
   }
 
